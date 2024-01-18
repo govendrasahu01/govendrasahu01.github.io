@@ -92,6 +92,9 @@
         font-size: 40px;
         margin-bottom: 2rem;
     }
+    .footer-left, .footer-center, .footer-right{
+        width: 31%;
+    }
     .tech-stack-item{
         width: 33%;
     }
@@ -100,12 +103,6 @@
     }
     .project-image img{
         height: 100%;
-    }
-    .footer-right{
-        width: 100%;
-    }
-    .footer-right p{
-        font-size: 1rem;
     }
 }
 
@@ -162,6 +159,9 @@
     .small-pillar{
         font-size: 40px;
     }
+    .footer-left, .footer-center, .footer-right{
+        width: 50%;
+    }
     .main-footer{
         padding: 2rem;
     }
@@ -197,6 +197,9 @@
         width: 95%;
     }
     .pillars-item{
+        width: 100%;
+    }
+    .footer-left, .footer-center, .footer-right{
         width: 100%;
     }
     .main-footer{
