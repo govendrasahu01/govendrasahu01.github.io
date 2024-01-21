@@ -285,14 +285,13 @@ a {
     background-color: #fff;
     display: flex;
     flex-wrap: wrap;
-    padding-top: 4rem;
+    /* padding-top: 1rem; */
     overflow: hidden;
 }
 .scond-sec-lef{
     width: 50%;
     position: relative;
-    /* border:  1px red solid; */
-    padding-top: 50px;
+    padding-top: 9rem;
 }
 .rotated-img{
     text-align: right;
@@ -302,16 +301,11 @@ a {
 }
 .rotated-img img{
     width: 50%;
-    /* position: relative;
-    left: -30%; */
 }
 .year-exper{
-    /* border:  1px red solid; */
+    margin: auto;
+    margin-top: 1rem;
     width: 220px;
-    height: 130px;
-    position: absolute;
-    top: 60%;
-    right: 10%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -319,7 +313,8 @@ a {
     padding: 1rem;
     font-size: 1.2rem;
     border-radius: 0.5rem;
-    box-shadow: 0px 4px 8px 5px rgb(183 189 221 / 25%);
+    box-shadow: 0px 4px 8px 5px rgb(183 189 221 / 75%);
+    color: #CAAB06;
 }
 .year-exper img{
     display: block;

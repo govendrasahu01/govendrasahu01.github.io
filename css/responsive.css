@@ -57,6 +57,10 @@
     }
     .scond-sec-lef{
         width: 100%;
+        padding-top: 2rem;
+    }
+    .year-exper{
+        display: none;
     }
     .big-about-us{
         font-size: 100px;
@@ -169,9 +173,6 @@
     }
     .copyright-section p{
         padding: 1rem;
-    }
-    .year-exper{
-        display: none;
     }
     .tech-stack-item{
         width: 50%;
