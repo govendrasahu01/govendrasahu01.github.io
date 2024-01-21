@@ -103,6 +103,8 @@
     }
     .footer-right{
         width: 100%;
+        padding-top: 0;
+        padding-bottom: 0;
     }
     .footer-right p{
         font-size: 1rem;
@@ -176,6 +178,9 @@
     }
     .github-main img {
         width: 80%;
+    }
+    .typing-text{
+        min-height: 3.5rem;
     }
 }
 
