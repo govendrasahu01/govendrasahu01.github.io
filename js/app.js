@@ -107,22 +107,22 @@ document.addEventListener('DOMContentLoaded', function () {
 });
 
 
-function download_resume() {
-    window.open('https://drive.usercontent.google.com/u/1/uc?id=1rxArm0t3ZI27w9IAJbLBQz3-Rsb_X5uW&export=download')
-    $('#leftMainNav').removeClass('man-left-active')
-    $('#rightWrapper').removeClass('right-wrapper-active');
-}
+// function download_resume() {
+//     window.open('https://drive.usercontent.google.com/u/1/uc?id=1rxArm0t3ZI27w9IAJbLBQz3-Rsb_X5uW&export=download')
+//     $('#leftMainNav').removeClass('man-left-active')
+//     $('#rightWrapper').removeClass('right-wrapper-active');
+// }
 
-resume1 = document.getElementById('resume-link-1')
-resume3 = document.getElementById('resume-link-3')
-resume4 = document.getElementById('resume-link-4')
-resume5 = document.getElementById('resume-link-5')
-resume6 = document.getElementById('resume-link-6')
-resume2 = document.getElementById('resume-link-2')
+// resume1 = document.getElementById('resume-link-1')
+// resume3 = document.getElementById('resume-link-3')
+// resume4 = document.getElementById('resume-link-4')
+// resume5 = document.getElementById('resume-link-5')
+// resume6 = document.getElementById('resume-link-6')
+// resume2 = document.getElementById('resume-link-2')
 
-resume1.addEventListener("click", download_resume)
-resume3.addEventListener("click", download_resume)
-resume4.addEventListener("click", download_resume)
-resume5.addEventListener("click", download_resume)
-resume6.addEventListener("click", download_resume)
-resume2.addEventListener("click", download_resume)
+// resume1.addEventListener("click", download_resume)
+// resume3.addEventListener("click", download_resume)
+// resume4.addEventListener("click", download_resume)
+// resume5.addEventListener("click", download_resume)
+// resume6.addEventListener("click", download_resume)
+// resume2.addEventListener("click", download_resume)
